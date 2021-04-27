@@ -19,12 +19,12 @@ words.json
 You can use the MongoDBCompass to import the data into the collections
 
 
-#### NOTE:
-#### NOTE: A known issue in the game.  When you start the game the masked mystery word is missing. 
-#### NOTE: The masked word will show after you enter the first letter and click the submit button.
-#### NOTE:
-#### NOTE: I cannot seem to find the fix for this bug for now but will continue to find a solution.
-#### NOTE:
+**NOTE:**
+**NOTE:** A known issue in the game.  When you start the game the masked mystery word is missing. 
+**NOTE:** The masked word will show after you enter the first letter and click the submit button.
+**NOTE:**
+**NOTE:** I cannot seem to find the fix for this bug for now but will continue to find a solution.
+**NOTE:**
 
 There are still a lot of thing that needs to be done in the program:
 - Formulate a better scoring system. Currently, it just stores the time (in sec.) it took the player to successfully guess the mystery word.
