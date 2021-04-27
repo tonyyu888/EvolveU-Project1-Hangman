@@ -2,6 +2,7 @@
 
 Hangman - Project 1
 <br>
+<br>
 A simple hangman game for EvolveU - Cohort6 project 1
 
 Idea was from old school upright arcade game machines, where you are asked to enter your initial at the end of the game for saving in the database. The game also displays the top 5 players.
@@ -11,12 +12,17 @@ My very first web application with database backend...
 This program requires a MongoDB database to store game data.
 
 Create a database name it "hangman"
-Create 2 collections in the hangman database
+<br>
+Create 2 collections in the hangman database:
+<br>
 words
 scores
-You will find 2 files in JSON format contain the 2 collections in the data files folder
+<br>
+You will find 2 files in JSON format contain the 2 collections in the data files folder:
+<br>
 scores.json
 words.json
+<br>
 You can use the MongoDBCompass to import the data into the collections
 
 There are still a lot of thing that needs to be done in the program:
@@ -26,6 +32,7 @@ There are still a lot of thing that needs to be done in the program:
 - Make game interface attractive.
 - Added! - Display a clue about the mystery word (Category: Place, Thing, etc.). My wife gave me heck for this one.
 - Clean up the codes specially the variables used.
+<br>
 Many more...
 
 Run it wih node server.js
