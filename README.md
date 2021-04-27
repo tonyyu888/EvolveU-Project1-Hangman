@@ -1,6 +1,7 @@
 # EvolveU-Project1-Hangman
 
 Hangman - Project 1
+<br>
 A simple hangman game for EvolveU - Cohort6 project 1
 
 Idea was from old school upright arcade game machines, where you are asked to enter your initial at the end of the game for saving in the database. The game also displays the top 5 players.
