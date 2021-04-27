@@ -18,10 +18,16 @@ function fillScores(updateScoresObject) {
 };
 
 function updateMysteryWord(updatedWordObject) {
+
+//    console.log("updatedWordObject.gameProgressResult.plainMysteryWord = ", updatedWordObject.gameProgressResult.mysteryWordCategory);
+
     let userInputLetter = document.getElementById("userInput");
 
     let mysteryWordId = document.getElementById("mysteryWord");
     mysteryWordId.innerHTML = updatedWordObject.gameProgressResult.plainMysteryWord;
+
+    let categoryId = document.getElementById("mysteryWordCategory");
+    categoryId.innerHTML = updatedWordObject.gameProgressResult.mysteryWordCategory;
 
     let hagmanImageId = document.getElementById("hangmanImage");
     hagmanImageId.src = updatedWordObject.gameProgressResult.imageFile;
@@ -48,10 +54,13 @@ function updateMysteryWord(updatedWordObject) {
 function refreshScreen(updatedWordObject) {
     let userInputLetter = document.getElementById("userInput");
 
-    console.log("updatedWordObject.gameProgressResult.plainMysteryWord = ", updatedWordObject.gameProgressResult.plainMysteryWord);
+    //console.log("updatedWordObject.gameProgressResult.plainMysteryWord = ", updatedWordObject.gameProgressResult.mysteryWordCategory);
 
     let mysteryWordId = document.getElementById("mysteryWord");
     mysteryWordId.innerHTML = updatedWordObject.gameProgressResult.plainMysteryWord;
+
+    let categoryId = document.getElementById("mysteryWordCategory");
+    categoryId.innerHTML = updatedWordObject.gameProgressResult.mysteryWordCategory;
 
     let hagmanImageId = document.getElementById("hangmanImage");
     hagmanImageId.src = updatedWordObject.gameProgressResult.imageFile;
@@ -100,6 +109,10 @@ function restartGame() {
     })
 }
 
+function loadGamePage() {
+    location.href = "gamePage.html";                
+}
+
 function startGame() {
 
     fetch('/restartGame')
@@ -107,15 +120,13 @@ function startGame() {
         return response.json()                
     })
     .then((updatedWordObject) => {
-        location.href = "gamePage.html";                
+//        location.href = "gamePage.html";                
         refreshScreen(updatedWordObject);
     })
 }
 
 function submitScore() {
     let userInitial = document.getElementById("userInitial");
-
-    console.log("script.js - Inside submitScore")
 
     fetch('/submitScore?userInitial=' + userInitial.value)
     .then((response) => {

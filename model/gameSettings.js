@@ -9,6 +9,7 @@ let plainMysteryWord = "";
 let startDateTime  = new Date();
 let endDateTime = new Date();
 let gameTimeCompleted = 0;
+let mysteryWordCategory = "";
 
 // list of complete alphabet with status //Should this go to the database?
 const alphabet = [
@@ -65,10 +66,12 @@ async function initializeGameVariables() {
     mysteryWordFull = mysteryWordFromDb[0].word;
     mysteryWord = mysteryWordFromDb[0].word.split("");
 
-    console.log("Word from DB = ", mysteryWordFull);
+    mysteryWordCategory = mysteryWordFromDb[0].category;
 
     /*    
     FOR TESTING
+    console.log("Word from DB = ", mysteryWordFull);
+
     mysteryWordFull = "AEGEAN";
     mysteryWord = "AEGEAN".split("");
     */    
@@ -90,6 +93,7 @@ async function initializeGameVariables() {
     const gameProgressResult = {
         "gameFeedback": "",
         "plainMysteryWord": plainMysteryWord,
+        "mysteryWordCategory": mysteryWordCategory,
         "imageFile": "../images/Hangman0.jpg",
         "letterNotFoundCount": 0,
         "buttonDisable": false
@@ -141,6 +145,7 @@ function determineGameProgress(findLetter) {
     const gameProgressResult = {
         "gameFeedback": "",
         "plainMysteryWord": "",
+        "mysteryWordCategory": "",
         "imageFile": "",
         "letterNotFoundCount": 0,
         "buttonDisable": false
@@ -148,6 +153,7 @@ function determineGameProgress(findLetter) {
 
     let letterStatusResult = setLetterStatus(findLetter);
 
+    gameProgressResult.mysteryWordCategory = mysteryWordCategory;
     gameProgressResult.letterNotFoundCount = letterNotFoundCount;
     gameProgressResult.imageFile = "../images/Hangman" + letterNotFoundCount.toString() + ".jpg";
 

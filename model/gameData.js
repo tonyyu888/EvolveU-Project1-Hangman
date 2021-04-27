@@ -12,7 +12,7 @@ async function getMysteryWordFromDb() {
     //Get a 1 random record from collection
     let wordResult = await wordsCollection.aggregate(
         [{$sample:{size:1}}, 
-        {"$project": {word: 1, _id: 0}}
+        {"$project": {word: 1, category: 1, _id: 0}}
     ]);
 
     //let wordResult = await wordsCollection.aggregate([{$sample:{size:1}}]);
@@ -20,8 +20,6 @@ async function getMysteryWordFromDb() {
 
     return wordResult.toArray();
 }
-
-
 
 module.exports = {
     getMysteryWordFromDb

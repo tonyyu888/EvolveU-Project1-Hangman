@@ -4,7 +4,7 @@
 
     <title>Poor man's Hangman Game</title>
 </head>
-<body>
+<body onload="startGame()">
 
    <script type="text/javascript" src="script.js"></script>   
 
@@ -16,7 +16,11 @@
     <div>
         Mystery Word: <span id="mysteryWord"></span>
     </div>
- 
+    <br>
+    <div>
+        Category: <span id="mysteryWordCategory"></span>
+    </div> 
+    <br>
     <input type="text" id="userInput" maxlength="1">
     <button type="submit" id="submitLetter" onclick="submitLetter()">Submit Letter Guess</button>
     <br>
