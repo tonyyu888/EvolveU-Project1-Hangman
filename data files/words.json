@@ -2,180 +2,273 @@
   "_id": {
     "$oid": "606fbeb7753d672db09fd941"
   },
-  "word": "ASTRONUT"
+  "word": "ASTRONUT",
+  "category": "Occupation",
+  "description": "(from the Greek 'astron' (ἄστρον), meaning 'star', and 'nautes' (ναύτης), meaning 'sailor') is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member aboard a spacecraft."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd942"
   },
-  "word": "PALEOMAGNETIC"
+  "word": "PALEOMAGNETISM",
+  "category": "Science",
+  "description": "Is the study of the record of the Earth's magnetic field in rocks, sediment, or archeological materials."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd943"
   },
-  "word": "LAMBORGHINI"
+  "word": "LAMBORGHINI",
+  "category": "Transporation",
+  "discription": "Is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd944"
   },
-  "word": "CROCODILE"
+  "word": "CROCODILE",
+  "category": "Animal",
+  "description": "is a large semiaquatic reptile that live throughout the tropics in Africa, Asia, the Americas and Australia."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd945"
   },
-  "word": "THERMODYNAMICS"
+  "word": "RINGSTED",
+  "category": "City",
+  "description": "Is a city located centrally in the Danish island of Zealand."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd946"
   },
-  "word": "CHANDRASEKHAR"
+  "word": "PTOLEMAIDA",
+  "category": "City",
+  "description": "A town and a former municipality in Kozani regional unit, Western Macedonia, Greece."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd947"
   },
-  "word": "AEGEAN"
+  "word": "TURKMENISTAN",
+  "category": "Country",
+  "description": "A country of Central Asia."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd948"
   },
-  "word": "SPACECRAFT"
+  "word": "SPACECRAFT",
+  "category": "Transporation",
+  "description": "Is a vehicle or machine designed to fly in outer space."
 },{
   "_id": {
     "$oid": "606fbeb7753d672db09fd949"
   },
-  "word": "SCHWARZSCHILD"
+  "word": "SURINAME",
+  "category": "Country",
+  "description": "A country located on the northern coast of South America."
 },{
   "_id": {
     "$oid": "6078fddaa67ac70f9bfebe49"
   },
-  "word": "RHYTHMS"
+  "word": "ALEXANDROVSK",
+  "category": "City",
+  "description": "Is a town in Perm Krai, Russia, located on the Lytva River (Kama's tributary), 185 kilometers (115 mi) northeast of Perm, the administrative center of the krai."
 },{
   "_id": {
     "$oid": "6078fe1fa67ac70f9bfebe63"
   },
-  "word": "PYGMY"
+  "word": "DISKETTE",
+  "category": "Computer",
+  "description": "Is a type of disk storage composed of a thin and flexible disk of a magnetic storage medium in a square or nearly square plastic enclosure lined with a fabric that removes dust particles from the spinning disk."
 },{
   "_id": {
     "$oid": "6078fe3da67ac70f9bfebe71"
   },
-  "word": "LYNX"
+  "word": "LYNX",
+  "category": "Animal",
+  "description": "Is any of the four species (the Canada lynx, Iberian lynx, Eurasian lynx, or bobcat) within the medium-sized wild cat genus Lynx."
 },{
   "_id": {
     "$oid": "6078fe8da67ac70f9bfebe8e"
   },
-  "word": "ASTHMA"
+  "word": "ASTHMA",
+  "category": "Health",
+  "description": "Is a condition in which your airways narrow and swell and may produce extra mucus."
 },{
   "_id": {
     "$oid": "6078feb4a67ac70f9bfebe9c"
   },
-  "word": "STRENGTHS"
+  "word": "LESOTHO",
+  "category": "Country",
+  "description": "A country in Southern Africa."
 },{
   "_id": {
     "$oid": "60792d5aa67ac70f9bfec5ae"
   },
-  "word": "PNEUMONOULTRAMICROSCOPICSILICOVOLCANOCONIOSIS"
+  "word": "GENOME",
+  "category": "Science",
+  "description": "All of the genetic material of an organism, carried in its DNA."
 },{
   "_id": {
     "$oid": "60792dc7a67ac70f9bfec5ba"
   },
-  "word": "DEFENESTRATION"
+  "word": "MICROFOSSIL",
+  "category": "Science",
+  "description": "A fossil so small that it must be studied by using a microscope."
 },{
   "_id": {
     "$oid": "60792e08a67ac70f9bfec5c2"
   },
-  "word": "PHOSPHENES"
+  "word": "MIRAMICHI",
+  "category": "City",
+  "description": "Is the largest city in northern New Brunswick, Canada."
 },{
   "_id": {
     "$oid": "60792e34a67ac70f9bfec5ca"
   },
-  "word": "BUMBERSHOOT"
+  "word": "ASTROBIOLOGY",
+  "category": "Science",
+  "description": "The branch of biology concerned with the search for life forms native to worlds other than Earth and with the origin, distribution, and evolution of life throughout the cosmos."
 },{
   "_id": {
     "$oid": "60792e56a67ac70f9bfec5d6"
   },
-  "word": "DISCOMBOBULATE"
+  "word": "MICRONESIA",
+  "category": "Country",
+  "description": "Is a subregion of Oceania, comprising thousands of small islands in the western Pacific Ocean."
 },{
   "_id": {
     "$oid": "60792e78a67ac70f9bfec5d9"
   },
-  "word": "FORMICATION"
+  "word": "WARRNAMBOOL",
+  "category": "City",
+  "description": "Is a city on the south-western coast of Victoria, Australia."
 },{
   "_id": {
     "$oid": "60792e9fa67ac70f9bfec5e0"
   },
-  "word": "GOBBLEDYGOOK"
+  "word": "FENUGREEK",
+  "category": "Plant",
+  "description": "Is an annual plant in the family Fabaceae, with leaves consisting of three small obovate to oblong leaflets."
 },{
   "_id": {
     "$oid": "60792ecea67ac70f9bfec5e7"
   },
-  "word": "RAMBUNCTIOUS"
+  "word": "ESWATINI",
+  "category": "Country",
+  "description": "Landlocked country in the eastern flank of South Africa, where it adjoins Mozambique."
 },{
   "_id": {
     "$oid": "60792ef2a67ac70f9bfec5eb"
   },
-  "word": "SNICKERSNEE"
+  "word": "MASHHAD",
+  "category": "City",
+  "description": "Is the second-most-populous city in Iran and the capital of Razavi Khorasan Province."
 },{
   "_id": {
     "$oid": "60792f23a67ac70f9bfec5f2"
   },
-  "word": "ABIBLIOPHOBIA"
+  "word": "PHILODENDRON",
+  "category": "Plant",
+  "description": "Is a large genus of flowering plants in the family Araceae."
 },{
   "_id": {
     "$oid": "60792f6aa67ac70f9bfec5fd"
   },
-  "word": "HEMIDEMISEMIQUAVER"
+  "word": "HYDROFOIL",
+  "category": "Transporation",
+  "description": "Is a lifting surface, or foil, that operates in water."
 },{
   "_id": {
     "$oid": "60792f86a67ac70f9bfec605"
   },
-  "word": "LAGOPODOUS"
+  "word": "AHMEDABAD",
+  "category": "City",
+  "description": "Is the largest city and former capital of the Indian state of Gujarat."
 },{
   "_id": {
     "$oid": "60792fb5a67ac70f9bfec60a"
   },
-  "word": "RANIVOROUS"
+  "word": "MUSKOX",
+  "category": "Animal",
+  "description": "Is a hoofed mammal of the family Bovidae."
 },{
   "_id": {
     "$oid": "60792fe8a67ac70f9bfec610"
   },
-  "word": "TROGLODYTE"
+  "word": "TRAMPOLINING",
+  "category": "Sports",
+  "description": "Is a recreational activity, acrobatic training tool as well as a competitive Olympic sport in which athletes perform acrobatics while bouncing on a trampoline."
 },{
   "_id": {
     "$oid": "6080a7fcd3a6ae6531ae4275"
   },
-  "word": "EXTRAORDINARY"
+  "word": "DJIBOUTI",
+  "category": "Country",
+  "description": "A small strategically located country on the northeast coast of the Horn of Africa."
 },{
   "_id": {
     "$oid": "6080a830d3a6ae6531ae4288"
   },
-  "word": "INTELLIGENCE"
+  "word": "TAEKWONDO",
+  "category": "Sports",
+  "description": "Is a Korean martial art, characterized by punching and kicking techniques, with emphasis on head-height kicks, jumping spinning kicks, and fast kicking techniques."
 },{
   "_id": {
     "$oid": "6080a87fd3a6ae6531ae42a5"
   },
-  "word": "COUNCILLOR"
+  "word": "RHINOCEROS",
+  "category": "Animal",
+  "description": "Are large, herbivorous mammals identified by their characteristic horned snouts."
 },{
   "_id": {
     "$oid": "6080a8dbd3a6ae6531ae42c7"
   },
-  "word": "RESIDENTIAL"
+  "word": "FRIGATEBIRD",
+  "category": "Animal",
+  "description": "Is a large seabirds with long, angular wings."
 },{
   "_id": {
     "$oid": "6080a931d3a6ae6531ae42ee"
   },
-  "word": "DRIFTWOOD"
+  "word": " ENTRONCAMENTO",
+  "category": "City",
+  "description": "Is a Portuguese municipality in district of Santarém in the Médio Tejo Subregion (Middle Tagus) of the Centro Region."
 },{
   "_id": {
     "$oid": "6080a965d3a6ae6531ae42ff"
   },
-  "word": "REVELSTOKE"
+  "word": "COMOROS",
+  "category": "Country",
+  "description": "An independent state comprising three of the Comoro Islands in the Indian Ocean, off the coast of East Africa."
 },{
   "_id": {
     "$oid": "6080a993d3a6ae6531ae4312"
   },
-  "word": "MANAGEMENT"
+  "word": "LOCOMOTIVE",
+  "category": "Transporation",
+  "description": "Is a rail transport vehicle that provides the motive power for a train."
 },{
   "_id": {
     "$oid": "6080a9aed3a6ae6531ae431b"
   },
-  "word": "SUSPENSION"
+  "word": "LEPIDOPTERY",
+  "category": "Science",
+  "description": "The branch of entomology that deals with lepidopterans."
+},{
+  "_id": {
+    "$oid": "6082072cd3a6ae6531ae4f3a"
+  },
+  "word": "SALAMANDERS",
+  "category": "Animal",
+  "description": "Are a group of amphibians typically characterized by a lizard-like appearance, with slender bodies, blunt snouts, short limbs projecting at right angles to the body, and the presence of a tail in both larvae and adults."
+},{
+  "_id": {
+    "$oid": "60820784d3a6ae6531ae4f45"
+  },
+  "word": "KANGAROO",
+  "category": "Animal",
+  "description": "Is a marsupial from the family Macropodidae (macropods, meaning 'large foot')."
+},{
+  "_id": {
+    "$oid": "608207e8d3a6ae6531ae4f52"
+  },
+  "word": "BANGLADESH",
+  "category": "Country",
+  "description": "Officially the People's Republic of Bangladesh, is a country in South Asia."
 }]
