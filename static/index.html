@@ -1,0 +1,62 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Poor man's Hangman Game</title>
+</head>
+
+<body onload="getScores()">
+
+   <script type="text/javascript" src="script.js"></script>  
+
+   <h1>Poor man's Hangman</h1>
+
+   <div>
+       <h2>Top 5 players</h2>
+   </div>
+
+   <div>
+    <table>
+        <tr>
+            <th>Player</th>
+            <th>Date</th>
+            <th>Word</th>
+            <th>Time(sec.)</th>
+        </tr>
+        <tr>
+            <td id="player1">Player1</td>
+            <td id="date1">Date1</td>
+            <td id="word1">Word1</td>
+            <td id="time1">Time1</td>
+        </tr>
+        <tr>
+            <td id="player2">Player2</td>
+            <td id="date2">Date2</td>
+            <td id="word2">Word2</td>
+            <td id="time2">Time2</td>
+        </tr>
+        <tr>
+            <td id="player3">Player3</td>
+            <td id="date3">Date3</td>
+            <td id="word3">Word3</td>
+            <td id="time3">Time3</td>
+        </tr>
+        <tr>
+            <td id="player4">Player4</td>
+            <td id="date4">Date4</td>
+            <td id="word4">Word4</td>
+            <td id="time4">Time4</td>
+        </tr>
+        <tr>
+            <td id="player5">Player5</td>
+            <td id="date5">Date5</td>
+            <td id="word5">Word5</td>
+            <td id="time5">Time5</td>
+        </tr>
+    </table>
+   </div>
+   <br>
+   <br>
+   <button id="restartGame" onclick="startGame()">Start Game</button>
+
+</body>
+</html>

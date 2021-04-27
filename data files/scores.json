@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "60807cd0469a9436f8751c68"
+  },
+  "userInitial": "CSE",
+  "startDateTime": {
+    "$date": "2021-04-21T19:27:57.589Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T19:28:13.573Z"
+  },
+  "word": "AEGEAN",
+  "letterNotFoundCount": 2,
+  "timeCompleted": 16
+},{
+  "_id": {
+    "$oid": "60807d3a20b725064c17b0b0"
+  },
+  "userInitial": "MRX",
+  "startDateTime": {
+    "$date": "2021-04-21T19:29:13.750Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T19:29:55.139Z"
+  },
+  "word": "LAMBORGHINI",
+  "letterNotFoundCount": 4,
+  "timeCompleted": 41
+},{
+  "_id": {
+    "$oid": "60807d8f20b725064c17b0b1"
+  },
+  "userInitial": "ANW",
+  "startDateTime": {
+    "$date": "2021-04-21T19:30:18.287Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T19:31:17.924Z"
+  },
+  "word": "HEMIDEMISEMIQUAVER",
+  "letterNotFoundCount": 4,
+  "timeCompleted": 60
+},{
+  "_id": {
+    "$oid": "60807e3420b725064c17b0b2"
+  },
+  "userInitial": "BAK",
+  "startDateTime": {
+    "$date": "2021-04-21T19:32:38.187Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T19:33:54.458Z"
+  },
+  "word": "TROGLODYTE",
+  "letterNotFoundCount": 4,
+  "timeCompleted": 76
+},{
+  "_id": {
+    "$oid": "60807eae20b725064c17b0b3"
+  },
+  "userInitial": "MRX",
+  "startDateTime": {
+    "$date": "2021-04-21T19:34:27.622Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T19:36:04.010Z"
+  },
+  "word": "RAMBUNCTIOUS",
+  "letterNotFoundCount": 4,
+  "timeCompleted": 96
+},{
+  "_id": {
+    "$oid": "6080852146cdb765549cf1e2"
+  },
+  "userInitial": "ZIP",
+  "startDateTime": {
+    "$date": "2021-04-21T20:02:51.160Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T20:03:34.363Z"
+  },
+  "word": "STRENGTHS",
+  "letterNotFoundCount": 3,
+  "timeCompleted": 43
+},{
+  "_id": {
+    "$oid": "608085e346cdb765549cf1e3"
+  },
+  "userInitial": "PEG",
+  "startDateTime": {
+    "$date": "2021-04-21T20:05:04.389Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T20:06:49.441Z"
+  },
+  "word": "HEMIDEMISEMIQUAVER",
+  "letterNotFoundCount": 5,
+  "timeCompleted": 105
+},{
+  "_id": {
+    "$oid": "608087244584110a68c078a3"
+  },
+  "userInitial": "NED",
+  "startDateTime": {
+    "$date": "2021-04-21T20:11:26.917Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T20:12:14.198Z"
+  },
+  "word": "SPACECRAFT",
+  "letterNotFoundCount": 3,
+  "timeCompleted": 47
+},{
+  "_id": {
+    "$oid": "608092103ef2460f0ce1dc4d"
+  },
+  "userInitial": "REX",
+  "startDateTime": {
+    "$date": "2021-04-21T20:57:57.574Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T20:58:50.037Z"
+  },
+  "word": "CROCODILE",
+  "letterNotFoundCount": 3,
+  "timeCompleted": 52
+},{
+  "_id": {
+    "$oid": "6080a549b8b8423b74dcf5db"
+  },
+  "userInitial": "AEC",
+  "startDateTime": {
+    "$date": "2021-04-21T22:20:27.277Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T22:20:47.877Z"
+  },
+  "word": "ASTRONUT",
+  "letterNotFoundCount": 2,
+  "timeCompleted": 21
+},{
+  "_id": {
+    "$oid": "6080a6a403a24f4d580ed1fe"
+  },
+  "userInitial": "YYC",
+  "startDateTime": {
+    "$date": "2021-04-21T22:26:16.667Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T22:26:31.474Z"
+  },
+  "word": "AEGEAN",
+  "letterNotFoundCount": 3,
+  "timeCompleted": 15
+},{
+  "_id": {
+    "$oid": "6080a74ea1ac630a70a42e45"
+  },
+  "userInitial": "XXS",
+  "startDateTime": {
+    "$date": "2021-04-21T22:29:05.814Z"
+  },
+  "endDateTime": {
+    "$date": "2021-04-21T22:29:30.736Z"
+  },
+  "word": "SPACECRAFT",
+  "letterNotFoundCount": 2,
+  "timeCompleted": 25
+}]

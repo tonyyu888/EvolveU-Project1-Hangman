@@ -1,0 +1,39 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <title>Poor man's Hangman Game</title>
+</head>
+<body>
+
+   <script type="text/javascript" src="script.js"></script>   
+
+   <h1>Poor man's Hangman</h1>
+
+    <div >
+        <img id="hangmanImage" src="../images/Hangman0.jpg"/>
+    </div>
+    <div>
+        Mystery Word: <span id="mysteryWord"></span>
+    </div>
+ 
+    <input type="text" id="userInput" maxlength="1">
+    <button type="submit" id="submitLetter" onclick="submitLetter()">Submit Letter Guess</button>
+    <br>
+    <br>
+    <div>
+        Game message: <span id="gameMessage"></span>
+        <br>
+        <br>
+        <button id="restartGame" onclick="restartGame()">Restart Game</button>
+    </div>
+    <br>
+    <br>
+    <div id="saveScorePrompt" >
+        Please enter your initial to save score.        
+        <input type="text" id="userInitial" maxlength="3"> 
+        <button id="submitScore" onclick="submitScore()">Submit Score</button>   
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+HTML page to display top 5 players
+
+- how to format html to display top players.  Table?
+
+
+Prompt user for inital after finishing the game, if successful guessed word, for save to DB.
+
+

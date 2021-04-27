@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd941"
+  },
+  "word": "ASTRONUT"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd942"
+  },
+  "word": "PALEOMAGNETIC"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd943"
+  },
+  "word": "LAMBORGHINI"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd944"
+  },
+  "word": "CROCODILE"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd945"
+  },
+  "word": "THERMODYNAMICS"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd946"
+  },
+  "word": "CHANDRASEKHAR"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd947"
+  },
+  "word": "AEGEAN"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd948"
+  },
+  "word": "SPACECRAFT"
+},{
+  "_id": {
+    "$oid": "606fbeb7753d672db09fd949"
+  },
+  "word": "SCHWARZSCHILD"
+},{
+  "_id": {
+    "$oid": "6078fddaa67ac70f9bfebe49"
+  },
+  "word": "RHYTHMS"
+},{
+  "_id": {
+    "$oid": "6078fe1fa67ac70f9bfebe63"
+  },
+  "word": "PYGMY"
+},{
+  "_id": {
+    "$oid": "6078fe3da67ac70f9bfebe71"
+  },
+  "word": "LYNX"
+},{
+  "_id": {
+    "$oid": "6078fe8da67ac70f9bfebe8e"
+  },
+  "word": "ASTHMA"
+},{
+  "_id": {
+    "$oid": "6078feb4a67ac70f9bfebe9c"
+  },
+  "word": "STRENGTHS"
+},{
+  "_id": {
+    "$oid": "60792d5aa67ac70f9bfec5ae"
+  },
+  "word": "PNEUMONOULTRAMICROSCOPICSILICOVOLCANOCONIOSIS"
+},{
+  "_id": {
+    "$oid": "60792dc7a67ac70f9bfec5ba"
+  },
+  "word": "DEFENESTRATION"
+},{
+  "_id": {
+    "$oid": "60792e08a67ac70f9bfec5c2"
+  },
+  "word": "PHOSPHENES"
+},{
+  "_id": {
+    "$oid": "60792e34a67ac70f9bfec5ca"
+  },
+  "word": "BUMBERSHOOT"
+},{
+  "_id": {
+    "$oid": "60792e56a67ac70f9bfec5d6"
+  },
+  "word": "DISCOMBOBULATE"
+},{
+  "_id": {
+    "$oid": "60792e78a67ac70f9bfec5d9"
+  },
+  "word": "FORMICATION"
+},{
+  "_id": {
+    "$oid": "60792e9fa67ac70f9bfec5e0"
+  },
+  "word": "GOBBLEDYGOOK"
+},{
+  "_id": {
+    "$oid": "60792ecea67ac70f9bfec5e7"
+  },
+  "word": "RAMBUNCTIOUS"
+},{
+  "_id": {
+    "$oid": "60792ef2a67ac70f9bfec5eb"
+  },
+  "word": "SNICKERSNEE"
+},{
+  "_id": {
+    "$oid": "60792f23a67ac70f9bfec5f2"
+  },
+  "word": "ABIBLIOPHOBIA"
+},{
+  "_id": {
+    "$oid": "60792f6aa67ac70f9bfec5fd"
+  },
+  "word": "HEMIDEMISEMIQUAVER"
+},{
+  "_id": {
+    "$oid": "60792f86a67ac70f9bfec605"
+  },
+  "word": "LAGOPODOUS"
+},{
+  "_id": {
+    "$oid": "60792fb5a67ac70f9bfec60a"
+  },
+  "word": "RANIVOROUS"
+},{
+  "_id": {
+    "$oid": "60792fe8a67ac70f9bfec610"
+  },
+  "word": "TROGLODYTE"
+},{
+  "_id": {
+    "$oid": "6080a7fcd3a6ae6531ae4275"
+  },
+  "word": "EXTRAORDINARY"
+},{
+  "_id": {
+    "$oid": "6080a830d3a6ae6531ae4288"
+  },
+  "word": "INTELLIGENCE"
+},{
+  "_id": {
+    "$oid": "6080a87fd3a6ae6531ae42a5"
+  },
+  "word": "COUNCILLOR"
+},{
+  "_id": {
+    "$oid": "6080a8dbd3a6ae6531ae42c7"
+  },
+  "word": "RESIDENTIAL"
+},{
+  "_id": {
+    "$oid": "6080a931d3a6ae6531ae42ee"
+  },
+  "word": "DRIFTWOOD"
+},{
+  "_id": {
+    "$oid": "6080a965d3a6ae6531ae42ff"
+  },
+  "word": "REVELSTOKE"
+},{
+  "_id": {
+    "$oid": "6080a993d3a6ae6531ae4312"
+  },
+  "word": "MANAGEMENT"
+},{
+  "_id": {
+    "$oid": "6080a9aed3a6ae6531ae431b"
+  },
+  "word": "SUSPENSION"
+}]
