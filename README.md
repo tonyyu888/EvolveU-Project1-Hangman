@@ -45,4 +45,5 @@ Many more...
 <br>
 Run it wih node server.js
 <br>
+<br>
 Enjoy playing the game. Let me know if you find any bugs.
