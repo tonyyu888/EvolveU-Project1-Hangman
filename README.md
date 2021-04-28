@@ -39,6 +39,7 @@ There is still a lot of things that needs to be done in the program:
 - Make game interface attractive.
 - Added! - Display a clue about the mystery word (Category: Place, Thing, etc.). My wife gave me heck for this one.
 - Clean up the codes specially the variables used.
+- Implement React to project
 <br>
 Many more...
 <br>
