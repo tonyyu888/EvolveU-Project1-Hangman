@@ -13,15 +13,20 @@ This program requires a MongoDB database to store game data.
 
 Create a database name it "hangman"
 <br>
+<br>
 Create 2 collections in the hangman database:
 <br>
 words
+<br>
 scores
+<br>
 <br>
 You will find 2 files in JSON format contain the 2 collections in the data files folder:
 <br>
 scores.json
+<br>
 words.json
+<br>
 <br>
 You can use the MongoDBCompass to import the data into the collections
 
