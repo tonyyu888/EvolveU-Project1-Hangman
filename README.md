@@ -32,7 +32,7 @@ words.json
 <br>
 You can use the MongoDBCompass to import the data into the collections
 
-There are still a lot of thing that needs to be done in the program:
+There is still a lot of things that needs to be done in the program:
 - Formulate a better scoring system. Currently, it just stores the time (in sec.) it took the player to successfully guess the mystery word.
 - Organize program files structure.
 - Implement express.Router to properly create modular, mountable route handlers.
@@ -41,7 +41,7 @@ There are still a lot of thing that needs to be done in the program:
 - Clean up the codes specially the variables used.
 <br>
 Many more...
-
+<br>
 Run it wih node server.js
 
 Enjoy playing the game. Let me know if you find any bugs.
