@@ -42,6 +42,7 @@ There is still a lot of things that needs to be done in the program:
 <br>
 Many more...
 <br>
+<br>
 Run it wih node server.js
-
+<br>
 Enjoy playing the game. Let me know if you find any bugs.
