@@ -16,12 +16,14 @@ Create a database name it "hangman"
 <br>
 Create 2 collections in the hangman database:
 <br>
+<br>
 words
 <br>
 scores
 <br>
 <br>
 You will find 2 files in JSON format contain the 2 collections in the data files folder:
+<br>
 <br>
 scores.json
 <br>
