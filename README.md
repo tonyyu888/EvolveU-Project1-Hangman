@@ -35,9 +35,9 @@ You can use the MongoDBCompass to import the data into the collections
 There is still a lot of things that needs to be done in the program:
 - Formulate a better scoring system. Currently, it just stores the time (in sec.) it took the player to successfully guess the mystery word.
 - Organize program files structure.
-- Implemented! - Implement express.Router to properly create modular, mountable route handlers.
+- <span style="color: red">Implemented!</span> - Implement express.Router to properly create modular, mountable route handlers.
 - Make game interface attractive.
-- Added! - Display a clue about the mystery word (Category: Place, Thing, etc.). My wife gave me heck for this one.
+- <span style="color: red">Added!</span> - Display a clue about the mystery word (Category: Place, Thing, etc.). My wife gave me heck for this one.
 - Clean up the codes specially the variables used.
 - Implement React to project
 <br>
